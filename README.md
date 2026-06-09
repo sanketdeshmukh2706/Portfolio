@@ -53,6 +53,7 @@ MP Board | 2019-2020
   * NumPy
   * Matplotlib
   * Seaborn
+  * Flask
 * SQL
 
 ### Core Skills
@@ -141,7 +142,6 @@ TCS (Forage) | July 2025
 
 * Advanced SQL
 * Power BI Dashboard Development
-* Machine Learning
 * Data Visualization
 * Generative AI Applications
 
