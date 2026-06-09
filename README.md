@@ -8,8 +8,8 @@
 
 ### 🔗 Connect With Me
 
-[LinkedIn](https://linkedin.com/in/sanket-deshmukh-a04239334)
-[GitHub](https://github.com/sanketdeshmukh2706)
+[🔗LinkedIn](https://linkedin.com/in/sanket-deshmukh-a04239334)
+[🐙GitHub](https://github.com/sanketdeshmukh2706)
 [📄 Download Resume](https://drive.google.com/file/d/1ll9eISJDGXhleQDBNbC7uaeyooqNoa7f/view?usp=drive_link)
 
 ---
