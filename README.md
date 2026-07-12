@@ -11,7 +11,7 @@
 [🔗LinkedIn](https://linkedin.com/in/sanket-deshmukh-a04239334)
 [🐙GitHub](https://github.com/sanketdeshmukh2706)
 [📄 Download Resume](https://drive.google.com/file/d/1rWOqMYa_cYUlGkHJduPEVudwmur3eGOU/view?usp=drivesdk)
-[📄 Download Resume](https://drive.google.com/file/d/1rWOqMYa_cYUlGkHJduPEVudwmur3eGOU/view?usp=drivesdk)
+
 
 ---
 
