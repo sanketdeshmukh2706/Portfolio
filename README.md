@@ -11,12 +11,13 @@
 [🔗LinkedIn](https://linkedin.com/in/sanket-deshmukh-a04239334)
 [🐙GitHub](https://github.com/sanketdeshmukh2706)
 [📄 Download Resume](https://drive.google.com/file/d/1rWOqMYa_cYUlGkHJduPEVudwmur3eGOU/view?usp=drivesdk)
+[📄 Download Resume](https://drive.google.com/file/d/1rWOqMYa_cYUlGkHJduPEVudwmur3eGOU/view?usp=drivesdk)
 
 ---
 
 ## 👨‍💻 About Me
 
-I am a passionate and aspiring Data Analyst currently pursuing a B.Tech in Information Technology from Sagar Institute of Research & Technology (SIRT), Bhopal.
+I am a passionate and aspiring Data Analyst graduated B.Tech in Information Technology from Sagar Institute of Research & Technology (SIRT), Bhopal.
 
 I enjoy working with data to uncover insights, create interactive dashboards, and support data-driven decision-making. My interests include Data Analytics, Business Intelligence, and Artificial Intelligence.
 
